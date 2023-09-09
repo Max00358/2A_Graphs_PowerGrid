@@ -1,5 +1,5 @@
 # 2A_Graphs_PowerGrid
-In this project, you must design and implement a graph data structure to store a weighted, undirected graph. In addition, you will design and implement an efficient algorithm to find a Minimum Spanning Tree (MST) of the graph. You must implement this algorithm in, at worst, O(|E|log(|V|)) time, where |E| is the number of edges in the graph and |V| is the number of vertices.<br/>
+In this project, a graph data structure is implemented to store a weighted, undirected graph. In addition, **Kruskal's algorithm, merge sort** and **union find path compression** technique is applied to find a Minimum Spanning Tree (MST) of the graph. You must implement this algorithm in, at worst, O(|E|log(|V|)) time, where |E| is the number of edges in the graph and |V| is the number of vertices.<br/>
 
 Functionalities:<br/>
   * LOAD: Load a dataset into a graph.<br/>
